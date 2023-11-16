@@ -1,0 +1,17 @@
+lastupdatecheck: 0
+recentrepos:
+- /home/raul/.config/lazygit
+- /home/raul/.config/zsh
+- /home/raul/.config/zathura
+- /home/raul/.config/newsboat
+- /home/raul/.config/nvim
+- /home/raul/Desktop/SOPHIA/report_service
+- /home/raul/.local/src/dwm
+- /home/raul/.local/share/nvim/vimwiki
+- /home/raul/Desktop/Bpk_training/bpk_training_Back/file-management-service
+startuppopupversion: 5
+customcommandshistory:
+- 'chore: delete init.vim '
+- q
+hidecommandlog: false
+ignorewhitespaceindiffview: false
