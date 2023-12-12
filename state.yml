@@ -1,13 +1,16 @@
 lastupdatecheck: 0
 recentrepos:
 - /home/raul/.config/lazygit
+- /home/raul/.config/shell
 - /home/raul/.config/zsh
-- /home/raul/.config/zathura
-- /home/raul/.config/newsboat
 - /home/raul/.config/nvim
-- /home/raul/Desktop/SOPHIA/report_service
-- /home/raul/.local/src/dwm
+- /home/raul/.config/newsboat
 - /home/raul/.local/share/nvim/vimwiki
+- /home/raul/Desktop/SOPHIA/report_service
+- /home/raul/Desktop/SOPHIA/asset_service
+- /home/raul/.config/starship
+- /home/raul/.config/zathura
+- /home/raul/.local/src/dwm
 - /home/raul/Desktop/Bpk_training/bpk_training_Back/file-management-service
 startuppopupversion: 5
 customcommandshistory:
