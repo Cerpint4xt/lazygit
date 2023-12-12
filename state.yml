@@ -1,12 +1,13 @@
 lastupdatecheck: 0
 recentrepos:
 - /home/raul/.config/lazygit
+- /home/raul/.config/tmux
+- /home/raul/Desktop/SOPHIA/report_service
 - /home/raul/.config/shell
 - /home/raul/.config/zsh
 - /home/raul/.config/nvim
 - /home/raul/.config/newsboat
 - /home/raul/.local/share/nvim/vimwiki
-- /home/raul/Desktop/SOPHIA/report_service
 - /home/raul/Desktop/SOPHIA/asset_service
 - /home/raul/.config/starship
 - /home/raul/.config/zathura
